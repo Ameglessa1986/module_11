@@ -1,0 +1,62 @@
+
+body {
+    background-color:#60e4f5; 
+ }
+ 
+ h1, .drive {
+    text-align:center;
+    padding-bottom: 20px;
+}
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+    background-image:url(https://oir.mobi/uploads/posts/2021-03/1616527135_39-p-shkolnii-fon-44.jpg);
+    max-width: 1100px;
+    max-height: 500px;
+   }
+#btnLess {
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+#btnEqual {
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+.card-body {
+    color: #f9f9f7;
+    font-family: bold;
+    text-decoration: none;
+}
+
+.container {
+    padding: 30px;
+}
+
+.card-header {
+    background-color: #03eef4e6;
+    height: 70px;
+    padding-top: 20px;
+}
+
+#answerField {
+    font-size: 30px;
+    color: #E91E63;
+}
+
+.card-footer {
+    background-color: #60e4f5;
+    height: 80px;
+}
+
+#btnRetry {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    color: #5f60ce;
+}
